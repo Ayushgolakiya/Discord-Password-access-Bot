@@ -1,4 +1,4 @@
-Certainly! Below is a sample README.md file for your project, providing an overview of your Discord bot project that focuses on password authentication for channel access:
+Discord bot project that focuses on password authentication for channel access:
 
 ```markdown
 # Discord Bot - Channel Access with Password Authentication
@@ -65,9 +65,3 @@ Replace `'your-bot-token'`, `'your-application-id'`, and `'your-guild-id'` with 
 
 If you would like to contribute to the project, please follow the [contribution guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the [Your License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-Make sure to customize placeholders such as "your-username," "your-discord-bot-project," "Your License Name," etc., with your actual details. Additionally, consider creating `CONTRIBUTING.md` and `LICENSE.md` files if you have specific contribution guidelines and licensing information for your project.
